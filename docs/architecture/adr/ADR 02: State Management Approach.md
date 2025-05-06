@@ -33,4 +33,4 @@ Dalam mengembangkan aplikasi FrontEnd dari SerenyPals, kami perlu menentukan Sta
 ### Consequences
 
 * Baik, karena dalam BloC, lapisan UI dan logika bisnis dipisah dan memungkinkan untuk pengembangan yang lebih terstruktur dan mudah dimengerti
-* Buruk, karena dalam BloC yang lapisan UI dan logika bisnis yang dikembangkan secara terpisah membuat struktur file menjadi sangat panjang dan kompleks. 
+* Buruk, karena dalam BloC yang lapisan UI dan logika bisnis yang dikembangkan secara terpisah membuat struktur file menjadi sangat panjang dan kompleks 
