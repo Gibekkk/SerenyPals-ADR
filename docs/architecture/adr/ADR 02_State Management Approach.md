@@ -1,9 +1,4 @@
 ---
-title: 'ADR 02: State Management Approach'
-
----
-
----
 status: Accepted
 date: 2025-06-05
 deciders: Tiffany

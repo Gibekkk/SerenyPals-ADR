@@ -1,9 +1,4 @@
 ---
-title: 'ADR 04: Local Data Persistence'
-
----
-
----
 status: Proposed
 date: 2025-06-05
 deciders: Tiffany

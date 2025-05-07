@@ -1,9 +1,4 @@
 ---
-title: 'ADR 03: Backend Integration Strategy'
-
----
-
----
 status: Accepted
 date: 2025-06-05
 deciders: Tiffany

@@ -1,9 +1,4 @@
 ---
-title: 'ADR 01: App Architecture Pattern'
-
----
-
----
 status: Accepted
 date: 2025-06-05
 deciders: Tiffany
