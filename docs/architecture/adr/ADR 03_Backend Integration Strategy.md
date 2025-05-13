@@ -13,9 +13,10 @@ Dalam mengembangkan aplikasi Frontend dari SerenyPals, kami perlu menerima data 
 
 ## Decision
 
-* Metode Backend Integration yang kami gunakan dalam pengembangan aplikasi ini adalah RESTful API. Kami memilih metode ini karena beberapa alasan:
+* Metode Backend Integration yang kami gunakan dalam pengembangan aplikasi ini adalah RESTful API dan WebSocket. Kami memilih metode ini karena beberapa alasan:
   * Sudah pernah digunakan dalam project sebelumnya
   * Memiliki penggunaan dan cara integrasi yang sederhana dengan frontend
+  * Mendukung pengimplementasian fitur chat yang real time
 
 ## Alternative Options
 1. Firebase
